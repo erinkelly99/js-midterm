@@ -141,7 +141,7 @@ document.getElementById('submit').addEventListener("click", function(e) {
     }
   }
   else {
-    alert("Incomplete Form");
+    alert("Incomplete Form. Please fill all values");
   }
 
 
